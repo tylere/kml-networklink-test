@@ -1,0 +1,9 @@
+<Document>
+  <visibility>1</visibility>
+  <NetworkLink>
+    <name>Sample Network Link</name>
+    <refreshVisibility>1</refreshVisibility>
+    <flyToView>1</flyToView>
+    <Link>https://raw.githubusercontent.com/tylere/kml-networklink-test/main/simple_placemark.kml</Link>
+  </NetworkLink>
+</Document>
