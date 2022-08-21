@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Polygon.kml</name>
+  <open>0</open>
+  <Placemark>
+    <name>A Point</name>
+    <Point>
+      <extrude>1</extrude>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>-100,45,100</coordinates>      <!-- lon,lat[,alt] -->
+    </Point>
+  </Placemark>
+</Document>
+</kml>
